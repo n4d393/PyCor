@@ -2,7 +2,7 @@
 
 **The fastest way to determine your client stay type.**
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHNOkSAR9mWWW6K64hobZFA0vPGQf_eCljxw&usqp=CAU "Leisure🏖️ or Business💼?")
+## ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHNOkSAR9mWWW6K64hobZFA0vPGQf_eCljxw&usqp=CAU "Leisure🏖️ or Business💼?")
 
 Welcome to the future of hotel management with our state-of-the-art Streamlit app, PyCor.
 Our app allows hotel owners to easily determine the stay type (Leisure vs Business) of their clients with incredible accuracy using a pre-trained machine learning model.
